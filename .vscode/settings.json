@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "c:\\Users\\vlady\\backend\\venv\\Scripts\\python.exe",
+    "python.languageServer": "Pylance",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "code-runner.saveFileBeforeRun": true
+}
